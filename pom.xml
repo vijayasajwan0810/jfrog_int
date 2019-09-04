@@ -29,19 +29,19 @@
 		<repository>
 			<id>central</id>
 			<name>releases</name>
-			<url>http://13.233.165.147:8081/artifactory/libs-release-local</url>
+			<url>http://3.86.87.172:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshots</name>
-			<url>http://13.233.165.147:8081/artifactory/libs-snapshot-local</url>
+			<url>http://3.86.87.172:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:keshavkummari/javacode.git</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/javacode.git</developerConnection>
-		<url>git@github.com:keshavkummari/javacode.git</url>
+		<connection>scm:git:git@github.com:vijayasajwan0810/jfrog_int.git</connection>
+		<developerConnection>scm:git:git@github.com:vijayasajwan0810/jfrog_int.git</developerConnection>
+		<url>git@github.com:vijayasajwan0810/jfrog_int.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
